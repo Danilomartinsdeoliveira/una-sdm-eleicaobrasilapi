@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EleicaoBrasilApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35177591424a89707823acfaef1565dde695d7a2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96d0f1e59a63ebd6d7df0760cadb580284e72fe1")]
 [assembly: System.Reflection.AssemblyProductAttribute("EleicaoBrasilApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EleicaoBrasilApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
